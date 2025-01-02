@@ -28,7 +28,7 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 1. Clone the repository:\
   git clone https://github.com/VarshithGovi/music-player.git\
 2. Install dependencies (if any):\
-  pip install pygame\  
+  pip install pygame
 3. Run the script:\
    python music_player.py 
 
