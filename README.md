@@ -40,6 +40,6 @@ Contributions are welcome! Whether it's fixing a bug, adding a new feature, or o
 
 This music player demonstrates practical programming skills by combining GUI design and audio processing. It's an excellent example of real-world Python applications., and a fun, engaging way to learn and implement new ideas!
 
-# ⭐ Don’t forget to star this repo if you found it helpful! ⭐
+# ⭐ Don’t forget to star this repo if you found it helpful! 
 
 This version uses a mix of visual elements, emojis, and clear formatting to grab attention and encourage interaction.
