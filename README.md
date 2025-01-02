@@ -5,18 +5,18 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 # ✨ Features
 
 ✔️ Interactive GUI: Built with Tkinter, featuring a modern black-themed interface.\
-✔️ Audio Playback: Play, pause, stop, and navigate (next/previous) seamlessly.
-✔️ Playlist Management: Automatically loads .mp3 files from a directory.
-✔️ Custom Controls: Stylish custom icons for an enhanced user experience.
-✔️ Pattern Matching: Efficiently filters and displays music files.
+✔️ Audio Playback: Play, pause, stop, and navigate (next/previous) seamlessly.\
+✔️ Playlist Management: Automatically loads .mp3 files from a directory.\
+✔️ Custom Controls: Stylish custom icons for an enhanced user experience.\
+✔️ Pattern Matching: Efficiently filters and displays music files.\
 
 # 🔧 Technologies Used
 
-Python 🐍
-Tkinter: To create the graphical user interface.
-Pygame: For handling audio playback.
-OS Module: To traverse the file system.
-Fnmatch: For pattern-based file filtering.
+Python 🐍\
+Tkinter: To create the graphical user interface.\
+Pygame: For handling audio playback.\
+OS Module: To traverse the file system.\
+Fnmatch: For pattern-based file filtering.\
 
 # 🤝 Contributing
 
