@@ -1,4 +1,4 @@
-#🎵 Python Music Player 🎧
+# 🎵 Python Music Player 🎧
 
 A feature-rich music player built with Python's Tkinter and Pygame libraries. This project combines creativity and programming to deliver a sleek, functional music player with an intuitive interface.
 
