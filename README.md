@@ -18,6 +18,20 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 **OS Module**: To traverse the file system.\
 **Fnmatch**: For pattern-based file filtering.
 
+# 📸 Screenshots
+
+![Music_player](https://github.com/user-attachments/assets/6e687999-ac09-4760-8880-a6a82b10fe6a)
+
+
+# 🚀 How to Run
+
+1. Clone the repository:\
+  git clone https://github.com/VarshithGovi/music-player.git\
+2. Install dependencies (if any):\
+  pip install pygame  \
+3. Run the script:\
+   python music_player.py 
+
 # 🤝 Contributing
 
 Contributions are welcome! Whether it's fixing a bug, adding a new feature, or optimizing code, feel free to fork and submit a pull request.
