@@ -36,7 +36,7 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 
 Contributions are welcome! Whether it's fixing a bug, adding a new feature, or optimizing code, feel free to fork and submit a pull request.
 
-#🌟 Why This Project?
+# 🌟 Why This Project?
 
 This music player demonstrates practical programming skills by combining GUI design and audio processing. It's an excellent example of real-world Python applications., and a fun, engaging way to learn and implement new ideas!
 
