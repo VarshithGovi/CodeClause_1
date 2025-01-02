@@ -42,4 +42,3 @@ This music player demonstrates practical programming skills by combining GUI des
 
 # ⭐ Don’t forget to star this repo if you found it helpful! 
 
-This version uses a mix of visual elements, emojis, and clear formatting to grab attention and encourage interaction.
