@@ -45,5 +45,8 @@ Contributions are welcome! Whether it's fixing a bug, adding a new feature, or o
 
 This music player demonstrates practical programming skills by combining GUI design and audio processing. It's an excellent example of real-world Python applications., and a fun, engaging way to learn and implement new ideas!
 
+## 📜 License
+ This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
+
 ## ⭐ Don’t forget to star this repo if you found it helpful! 
 
