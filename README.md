@@ -8,7 +8,7 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 ✔️ **Audio Playback**: Play, pause, stop, and navigate (next/previous) seamlessly.\
 ✔️ **Playlist Management**: Automatically loads .mp3 files from a directory.\
 ✔️ **Custom Controls**: Stylish custom icons for an enhanced user experience.\
-✔️ **Pattern Matching**: Efficiently filters and displays music files.\
+✔️ **Pattern Matching**: Efficiently filters and displays music files.
 
 ## 🔧 Technologies Used
 
